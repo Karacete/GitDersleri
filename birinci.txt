@@ -1,1 +1,10 @@
+<DOCTYPE html>
+<html>
+<body>
+
+<h1>BU BİR BAŞLIK</h1>
+
+
+</body>
+</html>
 Bu nasıl çalışacak acaba 
